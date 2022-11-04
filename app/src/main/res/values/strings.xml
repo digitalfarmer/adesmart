@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdesMart</string>
+    <string name="description">decription</string>
+    <string name="products_name">Product Name</string>
+    <string name="aboutus">AboutUs</string>
+    <string name="email">ade.setiawan669@gmail.com</string>
+    <string name="name_detal">Name</string>
+    <string name="rasa">Rasa</string>
+    <string name="banner_title">Indomie Seleraku</string>
+    <string name="description_detail">Description</string>
+</resources>
